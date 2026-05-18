@@ -170,7 +170,7 @@ fn print_csv(file: &CsvFile) {
 fn main() {
     let parser = CsvParser::new();
 
-    println!("=== employees.csv ===");
+    println!("== employees.csv ==");
     match parser.parse_file("employees.csv") {
         Ok(csv) => {
             print_csv(&csv);
