@@ -1,0 +1,8 @@
+id;name;category;price;in_stock
+101;Laptop Pro 15;Electronics;1299.99;true
+102;Wireless Mouse;Electronics;29.99;true
+103;"Coffee, Dark Roast";Food;14.50;false
+104;Desk Chair;Furniture;349.00;true
+105;USB-C Hub;Electronics;49.95;true
+106;"Notebook; A5";Stationery;4.99;true
+107;Standing Desk;Furniture;799.00;false
