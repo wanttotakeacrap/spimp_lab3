@@ -187,7 +187,7 @@ fn main() {
 
     println!();
 
-    println!("=== products.csv ===");
+    println!("== products.csv ==");
     let parser_semi = CsvParser::new().delimiter(';');
     match parser_semi.parse_file("products.csv") {
         Ok(csv) => {
